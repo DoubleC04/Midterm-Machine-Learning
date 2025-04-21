@@ -1,0 +1,1 @@
+Link data: https://www.kaggle.com/datasets/furkanakdeniz/asl-handsign-dataset-grayscaled-thresholded/data
