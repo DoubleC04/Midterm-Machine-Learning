@@ -176,6 +176,7 @@ cython_debug/
 src/temp.ipynb
 src/hand_recognition.py
 
+documents/
 
 model/
 
